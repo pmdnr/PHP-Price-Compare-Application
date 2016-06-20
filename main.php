@@ -1,5 +1,5 @@
 <?php
-//The code used in this file for only education purposs.
+//Licence-This Code only for Learning Purposs. Do not use this code in Real Applications, I am Not responsible for anything.
 ?>
 <!DOCTYPE html>
 <html>
